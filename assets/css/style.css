@@ -84,7 +84,8 @@ body{
 
 #profilePic{
     float: left;
-    max-width: 150px;
+    height: 400px;
+    width: 300px;
     margin: 15px 15px 0px 0px;
 }
 
